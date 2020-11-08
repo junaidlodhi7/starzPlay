@@ -1,12 +1,7 @@
-# IOT PARK WEB API DOCUMENTATION
+# STARZPLAY Censoring Filter Challenge
 
-Please find below, the steps to deploy web api.
+api can be consumed using the url: localhost:3000/media?filter={filterType}&level={censoringLevel}
 
-
-# DB Connection String (Mongo)
-
-In the project Folder, open Config folder and find index,js
-set the mongodb url to the desired DB instance and save the file.
 
 ## Environment Settings and Project Startup
 
@@ -21,4 +16,3 @@ set the mongodb url to the desired DB instance and save the file.
 
 1) open Windows  Command Prompt and go to the folder where project is placed
 2) Execute Command "pm2 kill"
-
