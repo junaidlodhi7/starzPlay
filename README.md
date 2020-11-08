@@ -10,7 +10,10 @@ api can be consumed using the   url: localhost:3000/media?filter={filterType}&le
 3) open Windows  Command Prompt and go to the folder where project is placed
 4) Execute Command "pm2 start index.js"
 
-
+## Local Environment Setup
+1) Install Nodejs latest package.
+2) open project Folder in Command Prompt and run command "npm i"
+3) through Command Line execute the command "node index.js"
 
 ## Stopping the project
 
