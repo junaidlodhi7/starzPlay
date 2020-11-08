@@ -1,6 +1,6 @@
 # STARZPLAY Censoring Filter Challenge
 
-api can be consumed using the url: localhost:3000/media?filter={filterType}&level={censoringLevel}
+api can be consumed using the  # url: localhost:3000/media?filter={filterType}&level={censoringLevel}
 
 
 ## Environment Settings and Project Startup
